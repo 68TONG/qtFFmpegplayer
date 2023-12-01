@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/Add.png</file>
+        <file>src/Add_Song.png</file>
+        <file>src/Close.png</file>
+        <file>src/Defaule_Pic.png</file>
+        <file>src/Download.png</file>
+        <file>src/Lrc.png</file>
+        <file>src/Main_Close.png</file>
+        <file>src/Next.png</file>
+        <file>src/Play.png</file>
+        <file>src/Play_Mode_01.png</file>
+        <file>src/Play_Mode_02.png</file>
+        <file>src/Play_Mode_03.png</file>
+        <file>src/Play_Mode_04.png</file>
+        <file>src/Previous.png</file>
+        <file>src/Search.png</file>
+        <file>src/Volume.png</file>
+    </qresource>
+</RCC>

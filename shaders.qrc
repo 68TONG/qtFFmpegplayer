@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/openGL_RGB24.fragment</file>
+        <file>shaders/openGL_ver.vertex</file>
+        <file>shaders/openGL_YUV420P.fragment</file>
+    </qresource>
+</RCC>
